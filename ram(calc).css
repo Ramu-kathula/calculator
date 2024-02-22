@@ -1,0 +1,37 @@
+
+div{
+   
+    background-color: #585858;
+  padding:35px;
+    border-radius: 30px;
+
+   
+    
+}
+input{
+    background-color: beige;
+    height:30px;
+    width: 220px;
+
+}
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:lightblue;
+  
+}
+button{
+    background-color:#C5C3D1;
+    padding:15px;
+    margin:7px;
+    border-radius: 16px;
+    
+}
+button:hover{
+    background-color: darkcyan;
+}
+.to{
+    background-color: orange;
+}
